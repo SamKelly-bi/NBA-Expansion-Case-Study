@@ -9,4 +9,4 @@ Excel and Power BI project examining the viability of different cities for poten
 -Created interactive dashboards highlighting key findings
 
 ## Dashboard Preview
--![Expansion City Data](Screenshot/Expansion City Candidates Slide Default.png)
+![Expansion City Data](Screenshot/Expansion City Candidates Slide Default.png)
