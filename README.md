@@ -9,5 +9,4 @@ Excel and Power BI project examining the viability of different cities for poten
 -Created interactive dashboards highlighting key findings
 
 ## Dashboard Preview
--![Expansion City Candidates Slide Default](<img width="1108" height="623" alt="Expansion City Candidates Slide Default" src="https://github.com/user-attachments/assets/dd14edb9-ecb5-4d63-9bc5-75a1bf51ca89" />)
--!
+-![](
