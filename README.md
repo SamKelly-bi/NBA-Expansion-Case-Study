@@ -15,4 +15,3 @@ Excel and Power BI project examining the viability of different cities for poten
 ![Expansion City Candidates Default View](https://github.com/SamKelly-bi/NBA-Expansion-Case-Study/blob/main/Screenshots/Expansion%20City%20Candidates%20Slide%20Default.png)
 ![Expansion & Relocation Plan Filtered](https://github.com/SamKelly-bi/NBA-Expansion-Case-Study/blob/main/Screenshots/Expansion%20and%20Relocation%20Plan%20Slide%20Filtered.png)
 
-<img src="(https://github.com/SamKelly-bi/NBA-Expansion-Case-Study/blob/main/Screenshots/Expansion%20City%20Candidates%20Slide%20Default.png)" alt="[Expansion City Candidates Default View]" style="width:50%; height:auto;">
