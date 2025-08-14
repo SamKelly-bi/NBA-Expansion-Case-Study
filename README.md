@@ -32,4 +32,4 @@ The NBA is exploring potential expansion and relocation markets. This analysis s
 
 ## Dashboard Preview 📊
 
-![Expansion Cities Slide](https://github.com/SamKelly-bi/NBA-Expansion-Case-Study/blob/main/Power%20BI/Visuals/Expansion%20City%20Candidates%20Slide%20Default.png)
+![Expansion Cities Slide](https://github.com/SamKelly-bi/NBA-Expansion-Case-Study/blob/main/Power%20BI/Visuals/Population%20Data%20Slide%20Filtered.png)
