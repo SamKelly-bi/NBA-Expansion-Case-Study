@@ -9,5 +9,5 @@ Excel and Power BI project examining the viability of different cities for poten
 -Created interactive dashboards highlighting key findings
 
 ## Dashboard Preview
-![Expansion City Candidates Default View]([Screenshot/Expansion City Candidates Slide Default.png)](https://github.com/SamKelly-bi/NBA-Expansion-Case-Study/blob/main/Screenshot/Expansion%20City%20Candidates%20Slide%20Default.png?raw=true)
+![Expansion City Candidates Default View](https://github.com/SamKelly-bi/NBA-Expansion-Case-Study/blob/main/Screenshot/Expansion%20City%20Candidates%20Slide%20Default.png?raw=true)
 ![Expansion City Candidates Filtered View](https://github.com/SamKelly-bi/NBA-Expansion-Case-Study/blob/main/Screenshot/Expansion%20City%20Candidates%20Slide%20Filtered.png?raw=true)
