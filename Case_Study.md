@@ -44,11 +44,11 @@ Weighted Criteria Scoring system allowed for all cites to have a standarised sco
 
 The highest ranked city for a particular metric receives a score of 100, the lowest ranked city gets a score of 0 and all other cities are scaled proportionally in between
 
-Weighted Criteria Formula = (x - Min/Max - Min) x 100
+- Weighted Criteria Formula = (x - Min/Max - Min) x 100
 
 Example:
 
-Population Score = (1,500,000 - 1,000,000)/(3,000,000 - 1,000,000) * 100
+- Population Score = (1,500,000 - 1,000,000)/(3,000,000 - 1,000,000) * 100
                  = 25
 
 - Weighted Critera Score = Metro Population (20%) + Population Growth (15%) + Per Capita Income (15%) + TV Market Rank (10%) + Google Trend Score (10%) + Demographics (10%) + Arena Criteria (10%) + Fortune 500 HQ''s (10%)
