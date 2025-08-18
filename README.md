@@ -22,10 +22,10 @@ The NBA is exploring potential expansion and relocation markets. This analysis s
 ## Tools & Techniques 🛠️ 
 | Skill / Tool | Where it’s used |
 |--------------|----------------|
-| **Power BI** — DAX, Power Query (M), Star Schema | LINK TO POWER BI MODEL
-| **Excel** — Weighted Criteria Calculations, PivotTables, Lookup Functions | LINK TO EXCEL MODEL
-| **Data Cleaning** - Data Normalisation | Use of Power Query in Excel and Power BI
-| **Data Storytelling** - Interactive and eye-catching visuals | Key visuals in `/assets` & Case Study narrative |
+| **Power BI** — DAX, Power Query (M), Star Schema | ![Power BI Model](
+| **Excel** — Weighted Criteria Calculations, PivotTables, Lookup Functions | ![Excel Model](
+| **Data Cleaning** - Data Normalisation | Use of Power Query in Excel and Power BI |
+| **Data Storytelling** - Interactive and eye-catching visuals | ![Power BI Visuals](|
 | **Scenario Analysis** | Criteria Scoring Metrics and Slicers in Power BI |
 
 ---
