@@ -23,9 +23,9 @@ The NBA is exploring potential expansion and relocation markets. This analysis s
 | Skill / Tool | Where it’s used |
 |--------------|----------------|
 | **Power BI** — DAX, Power Query (M), Star Schema | ![Power BI Model](
-| **Excel** — Weighted Criteria Calculations, PivotTables, Lookup Functions | ![Excel Model](https://github.com/SamKelly-bi/NBA-Expansion-Case-Study/blob/main/Excel/Model/NBA%20Expansion%20Case%20Study.xlsm)
+| **Excel** — Weighted Criteria Calculations, PivotTables, Lookup Functions | ![Excel Model](https://github.com/SamKelly-bi/NBA-Expansion-Case-Study/blob/main/Excel/Model/NBA%20Expansion%20Case%20Study.xlsm) |
 | **Data Cleaning** - Data Normalisation | Use of Power Query in Excel and Power BI |
-| **Data Storytelling** - Interactive and eye-catching visuals | ![Power BI Visuals](|
+| **Data Storytelling** - Interactive and eye-catching visuals | ![Power BI Visuals](https://github.com/SamKelly-bi/NBA-Expansion-Case-Study/tree/main/Power%20BI/Visuals)|
 | **Scenario Analysis** | Criteria Scoring Metrics and Slicers in Power BI |
 
 ---
