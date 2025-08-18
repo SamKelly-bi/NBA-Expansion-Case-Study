@@ -92,8 +92,8 @@ Example:
 
 ## Supporting Files
 
-- LINK TO EXCEL FILE
-- LINK TO POWER BI FILE
-- LINK TO README
+- ![Excel Model and Visuals](
+- ![Power BI Model and Visuals](
+- ![README.md](
 
 
