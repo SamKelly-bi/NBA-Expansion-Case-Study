@@ -94,6 +94,6 @@ Example:
 
 - ![Excel Model and Visuals](
 - ![Power BI Model and Visuals](
-- ![README.md](
+- ![README.md](https://github.com/SamKelly-bi/NBA-Expansion-Case-Study/blob/main/README.md)
 
 
