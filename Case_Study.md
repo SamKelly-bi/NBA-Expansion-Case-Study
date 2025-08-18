@@ -44,7 +44,7 @@ Weighted Criteria Scoring system allowed for all cites to have a standarised sco
 
 The highest ranked city for a particular metric receives a score of 100, the lowest ranked city gets a score of 0 and all other cities are scaled proportionally in between
 
-- Weighted Criteria Formula = (x - Min/Max - Min) x 100
+- Weighted Criteria Formula = (x - Min/Max - Min) * 100
 
 Example:
 
