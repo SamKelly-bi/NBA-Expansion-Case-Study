@@ -93,7 +93,7 @@ Example:
 ## Supporting Files
 
 - ![Excel Model and Visuals](https://github.com/SamKelly-bi/NBA-Expansion-Case-Study/tree/main/Excel)
-- ![Power BI Model and Visuals](
+- ![Power BI Model and Visuals](https://github.com/SamKelly-bi/NBA-Expansion-Case-Study/tree/main/Power%20BI)
 - ![README.md](https://github.com/SamKelly-bi/NBA-Expansion-Case-Study/blob/main/README.md)
 
 
