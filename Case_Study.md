@@ -31,7 +31,7 @@ via an **interactive Power BI dashboard** and an **Excel-based weighted criteria
 
 **Data Processing Steps:**
 - Created standardised column names and lookup tables in Excel in prepartation for importing into Power BI
-- Loaded raw CSV datasets into Excel and cleaned to ensure data normalisation (Standardised column names and removed nulls)
+- Loaded raw CSV datasets into Excel and cleaned to ensure data normalisation (Removed nulls, irrelevant data and standardised metro names)
 - Loaded Excel files in Power BI and created **Star Schema**
 - Created Measures such Digital Demographic Index, Per Capita Income and Population Growth Target
 
