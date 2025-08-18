@@ -40,7 +40,7 @@ via an **interactive Power BI dashboard** and an **Excel-based weighted criteria
 ## Methodology
 
 ### Excel
-Weighted Criteria Scoring system allowed for all cites to have a standarised score acorss 8 different metrics
+Weighted Criteria Scoring system allowed for all cites to have a standarised score across 8 different metrics
 
 The highest ranked city for a particular metric receives a score of 100, the lowest ranked city gets a score of 0 and all other cities are scaled proportionally in between
 
