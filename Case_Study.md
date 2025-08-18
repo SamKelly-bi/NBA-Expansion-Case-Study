@@ -71,11 +71,11 @@ Example:
 
 ## Key Results
 
-- **Seattle** was, by far, the highest scoring expansion candidate as it scored highest in metro population and per capita income, 2 of the 3 most heavily weighted metrics
+- **Seattle** was, by far, the top expansion candidate as it scored highest in metro population and per capita income, 2 of the 3 most heavily weighted metrics
 - **Las Vegas** was identified as the 2nd expansion city due to its exsisting infrustructure and investment opportunities
 - **Tampa**, despite scoring very highly, was not selected due its low average income and close proximity to an exsisting NBA franchise, the Orlando Magic
 - **New Orleans Pelicans** and **Memphis Grizzlies** were the 2 NBA franchises earmarked to have their teams relocated. Both cities ranked very low in population growth and average income
-- **Austin** was the best candidate for the Pelicans relocation due to it ranking highest among all cities in population growth %. The city will need to invest in an NBA ready arena if it is to host an NBA team
+- **Austin** was the best candidate for the Pelicans relocation due to it ranking highest amongst all cities in population growth %. The city will need to invest in an NBA ready arena if it is to host an NBA team
 - **Nashville** was the city identified to take the Grizzlies relocation as they are both located in Tennessee with **The Music City** being significantly wealthier, larger and faster growing
 
 ---
