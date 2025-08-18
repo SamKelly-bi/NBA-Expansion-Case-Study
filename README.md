@@ -7,7 +7,7 @@
 ## Quick Links 🔗
 - ![Case Study Report](https://github.com/SamKelly-bi/NBA-Expansion-Case-Study/blob/main/Case_Study.md)
 - ![Excel Model and Visuals](https://github.com/SamKelly-bi/NBA-Expansion-Case-Study/tree/main/Excel)
-- ![Power BI Model and Visuals](
+- ![Power BI Model and Visuals](https://github.com/SamKelly-bi/NBA-Expansion-Case-Study/tree/main/Power%20BI)
   
 ---
 
