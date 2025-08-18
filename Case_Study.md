@@ -53,3 +53,47 @@ Population Score = (1,500,000 - 1,000,000)/(3,000,000 - 1,000,000) x 100
 
 - Weighted Critera Score = Metro Population (20%) + Population Growth (15%) + Per Capita Income (15%) + TV Market Rank (10%) + Google Trend Score (10%) + Demographics (10%) + Arena Criteria (10%) + Fortune 500 HQ''s (10%)
 
+### Power BI
+**Model:** 
+- 3 Fact Tables - All Cities WCS (Primary), Expansion Cities WCS and NBA City WCS (Secondary Fact Tables)
+- 5 Lookup Tables - Expansion Cities Data, NBA Teams Data, City Attributes Lookup, Region Lookup and Media Market Lookup)
+
+**Visuals:**
+- Cards highlighting key findings
+- Matrix breaking down expansion city scores
+- KPI Gauge indicating if a city met the target metric
+- Stacked Bar Chart showing the makeup of NBA city scores
+- Scatter Chart showing all cities metro population and population growth %
+- Clustered Column Chart highlighting which teams fanbases were the most engaged
+- Scatter Chart showing NBA franchise evaulations and the average income of the city
+
+---
+
+## Key Results
+
+- Seattle was, by far, the highest scoring expansion candidate as it scored highest in metro population and per capita income, 2 of the 3 most heavily weighted metrics
+- Las Vegas was identified as the 2nd expansion city due to its exsisting infrustructure and investment opportunities
+- Tampa, despite scoring very highly, was not selected due its low average income and close proximity to an exsisting NBA franchise, the Orlando Magic
+- The New Orleans Pelicans and Memphis Grizzlies were the 2 NBA franchises earmarked to have their teams relocated. Both cities ranked very low in population growth and average income
+- Austin was the best candidate for the Pelicans relocation due to it ranking highest among all cities in population growth %. The city will need to invest in an NBA ready arena
+- Nashville was the city identified to take the Grizzlies relocation as they are both located in Tennessee with The Music City being significantly wealthier, larger and faster growing.
+
+---
+
+## Skills Demonstrated
+- Data collection & cleaning (Power Query M, Lookup functions)
+- Data modeling (Star Schema)
+- DAX calculations (Criteria scores, Rankings, KPIs)
+- Interactive dashboard design (Dynamic visuals, slicers, tooltips)
+- Scenario modeling in Excel and Power BI
+- Data storytelling with visuals & business context
+
+---
+
+## Supporting Files
+
+- LINK TO EXCEL FILE
+- LINK TO POWER BI FILE
+- LINK TO README
+
+
