@@ -12,7 +12,7 @@
 ---
 
 ## Project Overview 🔍
-The NBA is exploring potential expansion and relocation markets. This analysis seeks to:
+With the NBA exploring potential expansion and relocation markets, this analysis seeks to:
 - Identify **2 top expansion candidates** as well as **2 top relocation candidates** 
 - Combine **population, demographic and media** data to create a **weighted scoring system**
 - Create interactive visuals which highlight key findings
