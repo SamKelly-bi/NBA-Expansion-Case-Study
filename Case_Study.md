@@ -56,7 +56,7 @@ Example:
 ### Power BI
 **Model:** 
 - 3 Fact Tables - All Cities WCS (Primary), Expansion Cities WCS and NBA City WCS (Secondary Fact Tables)
-- 5 Lookup Tables - Expansion Cities Data, NBA Teams Data, City Attributes Lookup, Region Lookup and Media Market Lookup)
+- 5 Lookup Tables - Expansion Cities Data, NBA Teams Data, City Attributes Lookup, Region Lookup and Media Market Lookup
 
 **Visuals:**
 - Cards highlighting key findings
