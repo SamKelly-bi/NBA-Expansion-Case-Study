@@ -1,6 +1,6 @@
 # NBA Expansion Market Analysis 🏀
 
-> An End-to-End Excel and Power BI analytics project examining the viability of different cities for potential NBA expansion and relocation franchises.
+> An end-to-end Excel and Power BI analytics project examining the viability of different cities for potential NBA expansion and relocation franchises.
 
 ---
 
@@ -13,20 +13,20 @@
 
 ## Project Overview 🔍
 With the NBA exploring potential expansion and relocation markets, this analysis seeks to:
-- Identify **2 top expansion candidates** as well as **2 top relocation candidates** 
-- Combine **population, demographic and media** data to create a **weighted scoring system**
-- Create interactive visuals which highlight key findings
+- Identify the **top 2 expansion candidates** as well as the **top 2 relocation candidates**
+- Combine **population, demographic, and media** data to create a **weighted scoring system**
+- Develop interactive visuals that highlight key findings
 
 ---
 
 ## Tools & Techniques 🛠️ 
 | Skill / Tool | Where it’s used |
 |--------------|----------------|
-| **Power BI** — DAX, Power Query (M), Star Schema | ![Power BI Model](https://github.com/SamKelly-bi/NBA-Expansion-Case-Study/tree/main/Power%20BI/Models)
-| **Excel** — Weighted Criteria Calculations, PivotTables, Lookup Functions | ![Excel Model](https://github.com/SamKelly-bi/NBA-Expansion-Case-Study/tree/main/Excel/Model) |
-| **Data Cleaning** - Data Normalisation | Use of Power Query in Excel and Power BI |
-| **Data Storytelling** - Interactive and eye-catching visuals | ![Power BI Visuals](https://github.com/SamKelly-bi/NBA-Expansion-Case-Study/tree/main/Power%20BI/Visuals)|
-| **Scenario Analysis** | Criteria Scoring Metrics and Slicers in Power BI |
+| **Power BI** — DAX, Power Query (M), star schema | ![Power BI Model](https://github.com/SamKelly-bi/NBA-Expansion-Case-Study/tree/main/Power%20BI/Models) |
+| **Excel** — weighted criteria calculations, PivotTables, lookup functions | ![Excel Model](https://github.com/SamKelly-bi/NBA-Expansion-Case-Study/tree/main/Excel/Model) |
+| **Data Cleaning** — data normalisation | Use of Power Query in Excel and Power BI |
+| **Data Storytelling** — interactive and visually engaging dashboards | ![Power BI Visuals](https://github.com/SamKelly-bi/NBA-Expansion-Case-Study/tree/main/Power%20BI/Visuals) |
+| **Scenario Analysis** | Criteria scoring metrics and slicers in Power BI |
 
 ---
 
